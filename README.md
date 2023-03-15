@@ -5,11 +5,11 @@ Thanks for dropping by. Let me introduce myself.
 I am a Frontend Developer trying to develop intuitive and interactive user interfaces that are visually appealing and functional. I specialize in JavaScript and have industry experience working with ReactJS and Web Components.
 When not working, I usually spend my time writing tech-related blog posts on my website: [abcd.tech]().
 
-- 👨🏽‍🎓 I enjoy teaching coding skills and helping students
-- 🌱 I'm currently growing my Youtube Channel
+- 👨🏽‍🎓 I enjoy studying B.Tech CSE IIIyear
 - 📚 I'm constantly learning new skills and striving for progress
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: Keep striving for progress, not perfection
+- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/fathimafarooq-f-770220229/)
 
 ## **Languages and Tools**  
 
@@ -28,12 +28,6 @@ When not working, I usually spend my time writing tech-related blog posts on my 
  ---
 <!-- DUMP
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 GITHUB STATISTICS 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=FATHIMAFAROOQ)  
  <hr>
