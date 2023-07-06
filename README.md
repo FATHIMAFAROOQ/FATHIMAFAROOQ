@@ -17,24 +17,29 @@ When not working, I usually spend my time writing tech-related blog posts on my 
 
 ## **I'm Social** 
 
-<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/piyushsinhadev?label=follow&style=social" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/fathimafarooqf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/FFathimafarooq" target="_blank"><img src="https://img.shields.io/twitter/follow/FFathimafarooq?label=follow&style=social" alt="Twitter"></a>
+<a href="https://twitter.com/FFathimafarooq" target="_blank"><img src="https://img.shields.io/leetcode/follow/FFathimafarooq?label=follow&style=social" alt="Twitter"></a>
 
 ## **Stats:**
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FATHIMAFAROOQ&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FATHIMAFAROOQ&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats) 
+
+ ## **GITHUB STATISTICS:**
+ 
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=FATHIMAFAROOQ)  
  
  ---
 <!-- DUMP
 - 🔭 I’m currently working on ...
-GITHUB STATISTICS 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=FATHIMAFAROOQ)  
- <hr>
-CONTRIBUTION AND STREAK BLOCK 
+ ## **CONTRIBUTION AND STREAK BLOCK:**
+ 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FATHIMAFAROOQ&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)  
-PROFILES VIEWS
+
+ PROFILES VIEWS
+ 
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/FATHIMAFAROOQ/count.svg?align=center)     
+![visitors](https://profile-counter.glitch.me/FATHIMAFAROOQ/count.svg?align=center) 
 -->
 
