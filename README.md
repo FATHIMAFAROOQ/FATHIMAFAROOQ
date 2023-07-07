@@ -19,7 +19,7 @@ When not working, I usually spend my time writing tech-related blog posts on my 
 
 <a href="https://www.linkedin.com/in/fathimafarooqf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/FFathimafarooq" target="_blank"><img src="https://img.shields.io/twitter/follow/FFathimafarooq?label=follow&style=social" alt="Twitter"></a>
-<a href="https://twitter.com/FFathimafarooq" target="_blank"><img src="https://img.shields.io/leetcode/follow/FFathimafarooq?label=follow&style=social" alt="Twitter"></a>
+<a href="https://leetcode.com/FATHIMAFAROOQ/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?&style=flat-square&logo=leetcode" alt="LeetCode"></a>
 
 ## **Stats:**
  
@@ -29,7 +29,9 @@ When not working, I usually spend my time writing tech-related blog posts on my 
  ## **GITHUB STATISTICS:**
  
  ![Github stats](https://github-readme-stats.vercel.app/api?username=FATHIMAFAROOQ)  
- 
+ [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode)](https://leetcode.com/your_profile)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-Profile-green?logo=node.js)](https://nodejs.org/)
+
  ---
 <!-- DUMP
 - 🔭 I’m currently working on ...
