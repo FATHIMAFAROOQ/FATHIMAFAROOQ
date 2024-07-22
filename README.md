@@ -5,9 +5,8 @@ Thanks for dropping by. Let me introduce myself.
 I am a Frontend Developer trying to develop intuitive and interactive user interfaces that are visually appealing and functional. I specialize in JavaScript and have industry experience working with ReactJS and Web Components.
 When not working, I usually spend my time writing tech-related blog posts on my website: [abcd.tech]().
 
-- 👨🏽‍🎓 I enjoy studying B.Tech CSE IIIyear
+- 👨🏽‍🎓 I enjoy studying anything related to computer science
 - 📚 I'm constantly learning new skills and striving for progress
-- 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: Keep striving for progress, not perfection
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/fathimafarooq-f-770220229/)
 
